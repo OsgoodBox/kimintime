@@ -3,6 +3,8 @@
 
 ### Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimintime&show_icons=true)
+
 <!--
 **kimintime/kimintime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
