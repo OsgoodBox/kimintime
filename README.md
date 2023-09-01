@@ -1,9 +1,32 @@
-![HTML Badge](https://img.shields.io/badge/5-%20?style=plastic&logo=HTML5&label=HTML) ![CSS Badge](https://img.shields.io/badge/3-%20?style=plastic&logo=CSS3&label=CSS) ![Bootstrap Badge](https://img.shields.io/badge/-%20%20?style=plastic&logo=Bootstrap&label=Bootstrap) ![Material Badge](https://img.shields.io/badge/-%20?style=plastic&logo=mui&label=Material-UI) ![React Badge](https://img.shields.io/badge/-%20?style=plastic&logo=react&label=React) ![Redux Badge](https://img.shields.io/badge/-%20?style=plastic&logo=redux&label=Redux) ![Ionic Badge](https://img.shields.io/badge/-%20?style=plastic&logo=Ionic&label=Ionic) ![Angular Badge](https://img.shields.io/badge/-%20?style=plastic&logo=angular&label=Angular) ![TypeScript Badge](https://img.shields.io/badge/-%20?style=plastic&logo=TypeScript&label=TypeScript) ![JavaScript Badge](https://img.shields.io/badge/-%20%20?style=plastic&logo=javascript&label=JavaScript) ![C# Badge](https://img.shields.io/badge/-%20?style=plastic&logo=csharp&label=C%23) ![.NET Core Badge](https://img.shields.io/badge/Core-%20?style=plastic&logo=.net&label=.NET) ![EF Core Badge](https://img.shields.io/badge/Core-%20?style=plastic&logo=entity%20framework&label=EF) ![PostgreSQL Badge](https://img.shields.io/badge/-%20?style=plastic&logo=postgreSQL&label=PostgreSQL) ![Bash Badge](https://img.shields.io/badge/Scripting-%20?style=plastic&logo=linux&label=Bash)
+![HTML Badge](https://img.shields.io/badge/5-%20?color=%23d9a431&style=plastic&logo=HTML5&label=HTML) ![CSS Badge](https://img.shields.io/badge/3-%20?color=%23d9a431&style=plastic&logo=CSS3&label=CSS) ![SASS Badge](https://img.shields.io/badge/-%20?style=plastic&logo=sass&label=SASS&color=%23d9a431) ![Bootstrap Badge](https://img.shields.io/badge/-%20%20?color=%23d9a431&style=plastic&logo=Bootstrap&label=Bootstrap) ![Material Badge](https://img.shields.io/badge/-%20?color=%23d9a431&style=plastic&logo=mui&label=Material-UI) ![React Badge](https://img.shields.io/badge/-%20?color=%23d9a431&style=plastic&logo=react&label=React) ![Redux Badge](https://img.shields.io/badge/-%20?color=%23d9a431&style=plastic&logo=redux&label=Redux) ![Ionic Badge](https://img.shields.io/badge/-%20?color=%23d9a431&style=plastic&logo=Ionic&label=Ionic) ![Angular Badge](https://img.shields.io/badge/-%20?color=%23d9a431&style=plastic&logo=angular&label=Angular) ![TypeScript Badge](https://img.shields.io/badge/-%20?color=%23d9a431&style=plastic&logo=TypeScript&label=TypeScript) ![JavaScript Badge](https://img.shields.io/badge/-%20%20?color=%23d9a431&style=plastic&logo=javascript&label=JavaScript) ![C# Badge](https://img.shields.io/badge/-%20?color=%23d9a431&style=plastic&logo=csharp&label=C%23) ![.NET Core Badge](https://img.shields.io/badge/Core-%20?color=%23d9a431&style=plastic&logo=.net&label=.NET) ![EF Core Badge](https://img.shields.io/badge/Core-%20?color=%23d9a431&style=plastic&logo=entity%20framework&label=EF) ![Node Badge](https://img.shields.io/badge/-%20?style=plastic&label=Node.js&color=%23d9a431) ![PostgreSQL Badge](https://img.shields.io/badge/-%20?color=%23d9a431&style=plastic&logo=postgreSQL&label=PostgreSQ&logoColor=%23d9a431) ![MySQL Badge](https://img.shields.io/badge/-%20?style=plastic&logo=mysql&logoColor=%23d9a431&label=MySQL&color=%23d9a431) ![Bash Badge](https://img.shields.io/badge/Scripting-%20?color=%23d9a431&style=plastic&logo=linux&label=Bash) ![PHP Badge](https://img.shields.io/badge/-%20?style=plastic&logo=php&logoColor=%23d9a431&label=PHP&color=%23d9a431) ![Python Badge](https://img.shields.io/badge/-%20?style=plastic&logo=python&logoColor=%23d9a431&label=Python&color=%23d9a431) ![Java Badge](https://img.shields.io/badge/-%20?style=plastic&label=Java&color=%23d9a431) ![C Badge](https://img.shields.io/badge/-%20?style=plastic&logo=c&label=C&color=%23d9a431) ![C++ Badge](https://img.shields.io/badge/-%20?style=plastic&logo=c%2B%2B&label=C%2B%2B&color=%23d9a431) ![Scala Badge](https://img.shields.io/badge/-%20?style=plastic&logo=scala&label=Scala&color=%23d9a431) ![Kotlin Badge](https://img.shields.io/badge/-%20?style=plastic&logo=kotlin&logoColor=%23d9a431&label=Kotlin&color=%23d9a431)
 - - -
 
-### Hi there 👋
+### Hi and welcome to my little corner of Github 👋
+I'm Kim, for the past couple years I've been making the pivot from freelancing as a musician and developmental editor, to coding. I may as well say I've been pivoting from being creative, to being creative. What's kept me hooked on coding is the same thing that keeps me hooked on music or writing, and that thing is difficult to define, let's just call it a creative spark. 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimintime&show_icons=true)
+### About Me
+- 🔭 Coming soon: E-commerce Fullstack Project  
+  
+- 🌱 I’m currently brushing up on my bash scripting with some little projects  
+  
+- 👯 I'm looking for opportunties to embark on a career in software development  
+  
+- 💬 Ask me about just about anything you need help with. Also if you have any job or freelance opportunities for which you feel I might be a good fit.  
+  
+- 📫 How to reach me:   
+    - `kim.ruohio [at] domain [dot] com `  
+    -  ![LinkedIn Profile](https://www.linkedin.com/in/kimberly-ruohio-1200/)  
+  
+- 😄 Pronouns: she/her  
+  
+- ⚡ Fun fact: I play about 10 instruments, two of those professionally at one point. Clarinet / Voice.  
+  
+### My stats
+
+![kimintime's Stats](https://github-readme-stats.vercel.app/api?username=kimintime&theme=gruvbox&show_icons=true&hide_border=false&count_private=true) 
+![kimintime's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kimintime&theme=gruvbox&hide_border=false) 
+![kimintime's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimintime&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
+
 
 <!--
 **kimintime/kimintime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
