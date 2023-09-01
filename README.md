@@ -27,7 +27,7 @@ I'm Kim, for the past couple years I've been making the pivot from freelancing a
 
 ![kimintime's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kimintime&theme=gruvbox&hide_border=false) 
 
-#### Languages
+### My most used languages
 ![kimintime's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimintime&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)  
 
 
