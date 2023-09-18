@@ -14,7 +14,7 @@ I'm Kim, for the past couple years I've been making the pivot from freelancing a
 - 💬 Ask me about just about anything you need help with. Also if you have any job or freelance opportunities for which you feel I might be a good fit.  
   
 - 📫 How to reach me:   
-    - `kim.ruohio [at] domain [dot] com `  
+    - `kim.ruohio [at] gmail [dot] com `  
     - [LinkedIn Profile](https://www.linkedin.com/in/kimberly-ruohio-1200/)  
   
 - 😄 Pronouns: she/her  
