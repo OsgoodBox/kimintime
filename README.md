@@ -7,7 +7,7 @@ I'm Kim, for the past couple years I've been making the pivot from freelancing a
 ### About Me
 - 🔭 Coming soon: E-commerce Fullstack Project  
   
-- 🌱 I’m currently brushing up on my bash scripting with some little projects  
+- 🌱 I’m currently brushing up on Python  
   
 - 👯 I'm looking for opportunties to embark on a career in software development  
   
