@@ -5,7 +5,7 @@
 I'm Kim, for the past couple years I've been making the pivot from freelancing as a musician and developmental editor, to coding. I may as well say I've been pivoting from being creative, to being creative. What's kept me hooked on coding is the same thing that keeps me hooked on music or writing, and that thing is difficult to define, let's just call it a creative spark. 
 
 ### About Me
-- 🔭 Coming soon: Taking my first steps into professional software development at an exciting startup. Details coming soon 
+- 🔭 Recently joined Freely.fi as a software developer, where I'll be implementing helping to bring smarter renewable energy optimizations to everyone.
   
 - 🌱 I’m currently brushing up on Python 
   
