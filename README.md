@@ -5,11 +5,11 @@
 I'm Kim, for the past couple years I've been making the pivot from freelancing as a musician and developmental editor, to coding. I may as well say I've been pivoting from being creative, to being creative. What's kept me hooked on coding is the same thing that keeps me hooked on music or writing, and that thing is difficult to define, let's just call it a creative spark. 
 
 ### About Me
-- 🔭 Recently joined Freely.fi as a software developer, where I'll be implementing helping to bring smarter renewable energy optimizations to everyone.
+- 💡 I recently moved on as software developer at Freely.fi , where I developed their codebase, implementing helping to bring smarter renewable energy optimizations to everyone.
   
-- 🌱 I’m currently brushing up on Python 
+- 🌱 I’m currently embarking on my journey as a Junior SW QA Engineer at Ekahau.  
   
-- 👯 I'm looking to grow as a developer, to learn more about ai and machine learning
+- 👯 I'm looking to grow as a QA Engineer
   
 - 💬 Ask me about just about anything you need help with. 
   
@@ -20,6 +20,7 @@ I'm Kim, for the past couple years I've been making the pivot from freelancing a
 - 😄 Pronouns: she/her  
   
 - ⚡ Fun fact: I play about 10 instruments, two of those professionally at one point. Clarinet / Voice.  
+  
   
 ### My stats
 ![kimintime's Stats](https://github-readme-stats.vercel.app/api?username=kimintime&theme=gruvbox&show_icons=true&hide_border=false&count_private=true) 
