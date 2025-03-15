@@ -14,34 +14,8 @@ I'm Kim, for the past couple years I've been making the pivot from freelancing a
 - 💬 Ask me about just about anything you need help with. 
   
 - 📫 How to reach me:   
-    - `kim.ruohio [at] gmail [dot] com `  
     - [LinkedIn Profile](https://www.linkedin.com/in/kimberly-ruohio-1200/)  
   
 - 😄 Pronouns: she/her  
   
 - ⚡ Fun fact: I play about 10 instruments, two of those professionally at one point. Clarinet / Voice.  
-  
-  
-### My stats
-![kimintime's Stats](https://github-readme-stats.vercel.app/api?username=kimintime&theme=gruvbox&show_icons=true&hide_border=false&count_private=true) 
-
-![kimintime's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kimintime&theme=gruvbox&hide_border=false) 
-
-### My most used languages
-![kimintime's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimintime&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)  
-
-
-<!--
-**kimintime/kimintime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
